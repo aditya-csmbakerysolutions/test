@@ -4,6 +4,8 @@ Adobe Experience Manager (AEM)
 
 Use this project to maintain the code for **CSM Bakery Solutions** AEM environment!
 
+> ** Git Project URL: ** http://burdent@code.csmbakerysolutions.com/scm/aem/aem-main.git
+
 ----------
 
 
