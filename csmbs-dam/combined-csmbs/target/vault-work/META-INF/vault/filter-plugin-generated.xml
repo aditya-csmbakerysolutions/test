@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<workspaceFilter version="1.0">
-    <filter root="/apps/csmbs/install/core-csmbs-1.0.0-SNAPSHOT.jar" />
-    <filter root="/etc/packages/com.csmbs.dam/config-csmbs-1.0.0-SNAPSHOT.zip" />
-    <filter root="/etc/packages/com.csmbs.dam/ui-csmbs-1.0.0-SNAPSHOT.zip" />
-</workspaceFilter>
